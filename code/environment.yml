@@ -1,0 +1,16 @@
+name: powgenaus
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - geopandas
+  - shapely
+  - folium
+  - plotly
+  - branca
+  - pyogrio
+  - pip
+  - pip:
+      - streamlit-folium
