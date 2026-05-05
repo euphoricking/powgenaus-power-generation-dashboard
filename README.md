@@ -117,23 +117,6 @@ conda activate powgenaus
 streamlit run code/main.py
 ```
 
-## Notes for Portfolio Presentation
-
-Suggested ePortfolio title:
-
-**PowGenAUS: Interactive Geospatial Dashboard for Analysing Power Generation in Australia**
-
-Suggested project category:
-
-**Software Development / WebGIS / Geospatial Data Visualisation**
-
-Suggested screenshots:
-
-1. Dashboard overview with headline indicators
-2. Map explorer with state choropleth and station markers
-3. Fuel mix or state comparison chart
-4. Data inspection/download section
-
 ## Data
 
 The dashboard uses the Global Power Plant Database filtered to Australian power stations and combines it with Australian state boundary GeoJSON data. The source dataset in this project contains reported generation values for selected years and should be treated as a demonstration dataset for academic software development.
